@@ -8,5 +8,6 @@ Our pretrained models can be downloaded from [here](https://pan.baidu.com/s/1RhW
 Since there are no track in training process, you can directly train using EFDN framework.
 ### Test
 ```
+cd NTIRE2023_ESR-main
 ./run.sh
 ```
