@@ -1,0 +1,3 @@
+Model               	Val PSNR  	Val Time [ms] 	Params [M]	FLOPs [G] 	Acts [M]	Mem [M] 	Conv    
+00_RFDN_baseline    	29.04     	24.27         	0.433     	27.10     	112.03  	788.13  	  64    
+01_EDRN             	28.98     	59.31         	3.426     	224.19    	335.28  	612.78  	  94    
