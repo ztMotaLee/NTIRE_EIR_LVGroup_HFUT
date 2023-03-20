@@ -5,7 +5,7 @@
 Our pretrained models can be downloaded from [here](https://pan.baidu.com/s/1RhWVzpOSjAnfVtPQNzKC6w?pwd=5d0y). Our factsheets can be downloaded from [here](https://pan.baidu.com/s/1-7V4DwXvD2UZIMfQYo7LIg?pwd=95e9)
 ## Usage
 ### Train
-Since there are no track in training process, you can directly train using EFDN framework.
+Since there are no trick in the training process, you can directly use EFDN framework to reproduct.
 ### Test
 ```
 cd NTIRE2023_ESR-main
